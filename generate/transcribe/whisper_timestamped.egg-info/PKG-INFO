@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: whisper-timestamped
+Version: 1.15.4
+Summary: Multi-lingual Automatic Speech Recognition (ASR) based on Whisper models, with accurate word timestamps, access to language detection confidence, several options for Voice Activity Detection (VAD), and more.
+Home-page: https://github.com/linto-ai/whisper-timestamped
+Author: Jeronymous
+License: GPLv3
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: vad_silero
+Provides-Extra: vad_auditok
+Provides-Extra: test
+
+Multi-lingual Automatic Speech Recognition (ASR) based on Whisper models, with accurate word timestamps, access to language detection confidence, several options for Voice Activity Detection (VAD), and more.
+See https://github.com/linto-ai/whisper-timestamped for more information.
+

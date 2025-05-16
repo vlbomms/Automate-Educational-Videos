@@ -1,0 +1,153 @@
+[2025-05-16 13:35:19 -0400] [23075] [INFO] Starting gunicorn 23.0.0
+[2025-05-16 13:35:19 -0400] [23075] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:35:19 -0400] [23075] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:35:20 -0400] [23075] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:35:20 -0400] [23075] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:35:21 -0400] [23075] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:35:21 -0400] [23075] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:35:22 -0400] [23075] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:35:22 -0400] [23075] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:35:23 -0400] [23075] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:35:23 -0400] [23075] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:35:24 -0400] [23075] [ERROR] Can't connect to ('0.0.0.0', 5005)
+[2025-05-16 13:36:50 -0400] [25689] [INFO] Starting gunicorn 23.0.0
+[2025-05-16 13:36:50 -0400] [25689] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:36:50 -0400] [25689] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:36:51 -0400] [25689] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:36:51 -0400] [25689] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:36:52 -0400] [25689] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:36:52 -0400] [25689] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:36:53 -0400] [25689] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:36:53 -0400] [25689] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:36:54 -0400] [25689] [ERROR] Connection in use: ('0.0.0.0', 5005)
+[2025-05-16 13:36:54 -0400] [25689] [ERROR] connection to ('0.0.0.0', 5005) failed: [Errno 48] Address already in use
+[2025-05-16 13:36:55 -0400] [25689] [ERROR] Can't connect to ('0.0.0.0', 5005)
+[2025-05-16 13:37:38 -0400] [26592] [INFO] Starting gunicorn 23.0.0
+[2025-05-16 13:37:38 -0400] [26592] [INFO] Listening at: http://0.0.0.0:5005 (26592)
+[2025-05-16 13:37:38 -0400] [26592] [INFO] Using worker: sync
+[2025-05-16 13:37:38 -0400] [26593] [INFO] Booting worker with pid: 26593
+[2025-05-16 13:37:46 -0400] [26592] [INFO] Handling signal: winch
+[2025-05-16 13:38:50 -0400] [26592] [INFO] Handling signal: winch
+[2025-05-16 13:38:50 -0400] [26592] [INFO] Handling signal: winch
+[2025-05-16 13:39:06 -0400] [26592] [INFO] Handling signal: hup
+[2025-05-16 13:39:06 -0400] [26592] [INFO] Hang up: Master
+[2025-05-16 13:45:10 -0400] [33918] [INFO] Starting gunicorn 23.0.0
+[2025-05-16 13:45:10 -0400] [33918] [INFO] Listening at: http://0.0.0.0:5005 (33918)
+[2025-05-16 13:45:10 -0400] [33918] [INFO] Using worker: sync
+[2025-05-16 13:45:10 -0400] [33919] [INFO] Booting worker with pid: 33919
+[2025-05-16 13:47:32 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:32 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:32 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:38 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:47:43 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:48:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:48:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:48:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:37 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:51 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:51 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:51 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:49:55 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:50:01 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:51:27 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:54:57 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:54:57 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:57:44 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:58:23 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:58:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 13:58:50 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:28 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:28 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:28 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:28 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:30 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:30 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:30 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:00:30 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:01:42 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:01:42 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:02:03 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:02:04 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:02:26 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:02:26 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:12 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:12 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:12 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:12 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:13 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:13 -0400] [33918] [INFO] Handling signal: winch
+[2025-05-16 14:03:51 -0400] [33918] [INFO] Handling signal: int
+[2025-05-16 14:03:51 -0400] [33919] [INFO] Worker exiting (pid: 33919)
+[2025-05-16 14:03:52 -0400] [33918] [ERROR] Worker (pid:33919) was sent SIGINT!
+[2025-05-16 14:03:52 -0400] [33918] [INFO] Shutting down: Master
+[2025-05-16 14:04:01 -0400] [42636] [INFO] Starting gunicorn 23.0.0
+[2025-05-16 14:04:01 -0400] [42636] [INFO] Listening at: http://0.0.0.0:5005 (42636)
+[2025-05-16 14:04:01 -0400] [42636] [INFO] Using worker: sync
+[2025-05-16 14:04:01 -0400] [42637] [INFO] Booting worker with pid: 42637
+[2025-05-16 14:05:28 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:05:40 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:13:35 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:13:35 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:13:35 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:13:35 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:13:35 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:14:36 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:14:36 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:14:36 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:14:36 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:14:36 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:15:39 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:25 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:25 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:25 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:31 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:46 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:17:46 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:18:12 -0400] [42636] [INFO] Handling signal: winch
+[2025-05-16 14:18:12 -0400] [42636] [INFO] Handling signal: winch

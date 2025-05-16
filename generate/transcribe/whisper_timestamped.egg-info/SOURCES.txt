@@ -1,0 +1,10 @@
+setup.py
+whisper_timestamped/__init__.py
+whisper_timestamped/make_subtitles.py
+whisper_timestamped/transcribe.py
+whisper_timestamped.egg-info/PKG-INFO
+whisper_timestamped.egg-info/SOURCES.txt
+whisper_timestamped.egg-info/dependency_links.txt
+whisper_timestamped.egg-info/entry_points.txt
+whisper_timestamped.egg-info/requires.txt
+whisper_timestamped.egg-info/top_level.txt
