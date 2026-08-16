@@ -11,22 +11,22 @@ This project stitches together large language models, voice conversion, and vide
 
 ## Features
 
-- Topic → Video in one command
+- Topic → Video in one command:
   Turn a short text prompt (e.g. _“Explain CRISPR to high schoolers”_) into a full narrated video.
 
-- Pluggable voice models 
+- Pluggable voice models:
   Use RVC (Retrieval-based Voice Conversion) or other TTS backends to mimic specific public figures’ voices (subject to local law & platform policies).
 
-- Reusable “personas”
+- Reusable “personas”:
   Configure public-figure–style personalities (tone, pacing, level of detail) and reuse them across videos.
 
-- Script + structure control
+- Script + structure control:
   Generate scripts in multiple segments (intro, key ideas, summary), with adjustable length and complexity.
 
-- Batch generation
+- Batch generation:
   Loop over a list of topics and generate multiple videos in one run.
 
-- Extensible pipeline
+- Extensible pipeline:
   Clean separation between script generation, audio synthesis / voice conversion, and video assembly, so you can swap components.
 
 ## High-Level Architecture
